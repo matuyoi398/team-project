@@ -1,18 +1,18 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    background-color: #65ccb8;
+    background-color: #35766994;
 }
 
 header {
-    background-color: #3b945e;
-    color: #fefefef7(233, 60, 60, 0.902);
+    background-color: #03773d73;
+    color: #000000(233, 60, 60, 0.902);
     padding: 10px;
 }
 
 .logo {
     font-size: 1.5em;
-    color : #f2f2f2
+    color : #c62e2efa
 }
 
 nav {
@@ -26,7 +26,7 @@ nav ul {
 }
 
 nav li {
-    background: #57ba98;
+    background: #34705bc0;
     color: #f2f2f2;
     padding: 10px;
     margin-bottom: 2px;
@@ -38,7 +38,7 @@ nav button {
     padding: 15px;
     background: #182628;
     border: none;
-    color: white;
+    color: rgb(224, 211, 211);
     font-size: 1em;
 }
 
@@ -48,8 +48,8 @@ main {
 }
 
 .hero {
-    background-color: #57ba98;
-    color: white;
+    background-color: #e8686ca4;
+    color: rgb(255, 255, 255);
     padding: 50px;
     text-align: center;
 }
@@ -66,14 +66,14 @@ main {
 }
 
 .topics-grid article {
-    background: #ffffff;
-    color: #182628;
+    background: #419d7de2;
+    color: #f2f2f2;
     padding: 10px;
     flex: 1;
 }
 
 .thumbnail {
-    background: #3b945e;
+    background: #3b945fb5;
     color: #ffffff;
     height: 100px;
     margin-bottom: 10px;
@@ -82,7 +82,7 @@ main {
 footer {
     display: flex;
     justify-content: space-around;
-    background: #333;
+    background: #33333385;
     color: white;
     padding: 20px;
     clear: both;
@@ -94,5 +94,5 @@ footer {
 }
 
 .red{
-    color: #182628;
+    color: #18262846;
 }
