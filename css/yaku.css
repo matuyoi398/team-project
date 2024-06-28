@@ -1,0 +1,35 @@
+/* yaku.css ファイルの内容 */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+ol {
+    margin-bottom: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+li::before {
+    content: "・";
+    margin-right: 5px;
+    color: #ff6347;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+p {
+    margin: 5px 0 10px 20px;
+}
+
+li strong {
+    color: #ff6347;
+    font-weight: bold;
+    font-size: 1.1em;
+}
