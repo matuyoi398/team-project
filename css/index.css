@@ -1,18 +1,18 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    background-color: #35766994;
+    background-color: #b1b1b194;
 }
 
 header {
-    background-color: #03773d73;
-    color: #000000(233, 60, 60, 0.902);
+    background-color: #4bb37fcc;
+    color: #c9b3b3(233, 60, 60, 0.902);
     padding: 10px;
 }
 
 .logo {
     font-size: 1.5em;
-    color : #c62e2efa
+    color : #fffffffa
 }
 
 nav {
@@ -22,12 +22,13 @@ nav {
 
 nav ul {
     list-style: none;
-    padding: 0;
+    padding: 10;
 }
 
 nav li {
-    background: #34705bc0;
-    color: #f2f2f2;
+    border-bottom: #1b5a1f46;
+    background-color: #3ca17ec0;
+    color: #fafafa;
     padding: 10px;
     margin-bottom: 2px;
 }
@@ -37,8 +38,8 @@ nav button {
     width: 100%;
     padding: 15px;
     background: #182628;
-    border: none;
-    color: rgb(224, 211, 211);
+    border-color: #3ea94546;
+    color: rgb(255, 255, 255);
     font-size: 1em;
 }
 
@@ -48,14 +49,14 @@ main {
 }
 
 .hero {
-    background-color: #e8686ca4;
+    background-color: #4fa652a4;
     color: rgb(255, 255, 255);
     padding: 50px;
     text-align: center;
 }
 
 .topics {
-    background: white;
+    background: #e8e6e6;
     padding: 20px;
     margin-bottom: 20px;
 }
@@ -94,5 +95,5 @@ footer {
 }
 
 .red{
-    color: #18262846;
+    color: #f2fdff46;
 }
