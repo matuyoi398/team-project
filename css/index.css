@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-color: #4bb37fcc;
+    background-color: #3da8a1e2;
     color: #c9b3b3(233, 60, 60, 0.902);
     padding: 10px;
 }
@@ -27,7 +27,7 @@ nav ul {
 
 nav li {
     border-bottom: #1b5a1f46;
-    background-color: #3ca17ec0;
+    background-color: #34876ac0;
     color: #fafafa;
     padding: 10px;
     margin-bottom: 2px;
@@ -38,7 +38,7 @@ nav button {
     width: 100%;
     padding: 15px;
     background: #182628;
-    border-color: #3ea94546;
+    border-color: #3da8a1e2;
     color: rgb(255, 255, 255);
     font-size: 1em;
 }
@@ -49,14 +49,14 @@ main {
 }
 
 .hero {
-    background-color: #4fa652a4;
+    background-color: #3da8a1e2;
     color: rgb(255, 255, 255);
     padding: 50px;
     text-align: center;
 }
 
 .topics {
-    background: #e8e6e6;
+    background: #f0f0f0;
     padding: 20px;
     margin-bottom: 20px;
 }
@@ -67,8 +67,8 @@ main {
 }
 
 .topics-grid article {
-    background: #419d7de2;
-    color: #f2f2f2;
+    background: #3da8a1e2;
+    color: #f3fff9;
     padding: 10px;
     flex: 1;
 }
